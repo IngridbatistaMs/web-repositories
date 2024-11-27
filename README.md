@@ -14,7 +14,8 @@ Os projetos neste repositório utilizam diversas tecnologias:
 
 Front-End:
 HTML, CSS, JavaScript, PHP.
-Bibliotecas de design responsivo.
+
+Bootstrap.
 
 📂 Projetos Destacados
 
