@@ -6,3 +6,5 @@
   * [Demo](https://ingridbatistams.github.io/projetoSpotify/)
 * [Aplicativo de calculadora](https://github.com/IngridbatistaMs/appCalculadora)
   * [Demo](https://ingridbatistams.github.io/appCalculadora/)
+* [Aplicativo game](https://github.com/IngridbatistaMs/App-Game)
+  * [Demo](https://ingridbatistams.github.io/App-Game/)
