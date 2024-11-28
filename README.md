@@ -19,7 +19,7 @@ Bootstrap.
 
 📂 Projetos Destacados
 
-> Projetos de Web Design em construção📝
+> Projetos de Web Design (em construção)📝
 
 * [Site de Finanças](https://github.com/IngridbatistaMs/projetoFinans/)
   * [Demo](https://ingridbatistams.github.io/projetoFinans/)
